@@ -1,2 +1,7 @@
-package uz.pdp.online.service;public interface AppOperation {
+package uz.pdp.online.service;
+
+public interface AppOperation {
+
+    void startApplications();
+
 }

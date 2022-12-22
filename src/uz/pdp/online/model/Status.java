@@ -1,2 +1,8 @@
-package uz.pdp.online.model;public enum Status {
+package uz.pdp.online.model;
+
+public enum Status {
+
+    AVAILABLE,
+    SOLD
+
 }
